@@ -1,2 +1,2 @@
  
-result === 1
+let result = 1;
