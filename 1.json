@@ -1,54 +1,54 @@
 [{
     "productName":"MANGO PEOPLE T-SHIRT",
     "productPrice":52,
-    "productImg":"img/product_tovar_1.png",
+    "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_1.png",
     "productId":"prod_0"
 },
 {
     "productName":"BANANA PEOPLE T-SHIRT",
     "productPrice":53,
-    "productImg":"img/product_tovar_2.png",
+    "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_2.png",
     "productId":"prod_1"
 },
 {
     "productName":"STRAWBERRY PEOPLE T-SHIRT",
     "productPrice":55,
-    "productImg":"img/product_tovar_3.png",
+    "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_3.png",
     "productId":"prod_2"
 },
 {
     "productName":"ORANGE PEOPLE T-SHIRT",
     "productPrice":67,
-    "productImg":"img/product_tovar_4.png",
+    "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_4.png",
     "productId":"prod_3"
 },
 {
     "productName":"PUMKIN PEOPLE T-SHIRT",
     "productPrice":69,
-    "productImg":"img/product_tovar_5.png",
+    "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_5.png",
     "productId":"prod_4"
 },
 {
     "productName":"PINEAPPLE PEOPLE T-SHIRT",
     "productPrice":94,
-    "productImg":"img/product_tovar_6.png",
+    "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_6.png",
     "productId":"prod_5"
 },
 {
     "productName":"CUCUMBER PEOPLE T-SHIRT",
     "productPrice":23,
-    "productImg":"img/product_tovar_7.png",
+    "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_7.png",
     "productId":"prod_6"
 },
 {
     "productName":"TOMATO PEOPLE T-SHIRT",
     "productPrice":45,
-    "productImg":"img/product_tovar_8.png",
+    "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_8.png",
     "productId":"prod_7"
  },
 {
     "productName":"POTATO PEOPLE T-SHIRT",
     "productPrice":79,
-    "productImg":"img/product_tovar_9.png",
+    "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_9.png",
     "productId":"prod_8"
 }]
